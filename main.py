@@ -1,3 +1,5 @@
+# THis is a test code to send whatsapp message using pywhatkit library
+
 import pywhatkit as pwk
 
 phone_number = "+923361756540"  # Replace with the target phone number
